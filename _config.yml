@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: x0d Notes
+title: x0d.notes
 email: #your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just a notebook of things thought or things learned 
-  by an actual, real life, brainless idiot.
+  by an actual, real-life, brainless idiot.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: #
